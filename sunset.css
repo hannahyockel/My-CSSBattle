@@ -1,0 +1,44 @@
+.sunset-wrapper {
+  margin: 0;
+  background: #191919;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg {
+  width: 150px;
+  height: 200px;
+  background: #F2AD43;
+  border-radius: 100px 100px 30px 30px;
+  position: relative;
+  overflow: hidden;
+}
+
+.sun {
+  height: 60px;
+  width: 60px;
+  background: #FFF58F;
+  border-radius: 50%;
+  position: absolute;
+  top: 90px;
+  left: 45px;
+}
+
+.mountain {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  top: 100px;
+}
+
+.left-mountain {
+  background: #E08027;
+  left: -100px;
+}
+
+.right-mountain {
+  background: #824B20;
+  right: -100px;
+}

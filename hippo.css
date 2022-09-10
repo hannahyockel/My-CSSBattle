@@ -1,0 +1,82 @@
+.hippo-wrapper {
+    background: #191919;
+    position: relative;
+    margin: 0;
+
+  }
+  
+  .hippo-face {
+    width: 130px;
+    height: 100px;
+    background: #FE5F55;
+    border-radius: 60px 60px 0 0;
+    position: absolute;
+    left: 135px;
+    top: 75px;
+  }
+  
+  .hippo-eye {
+    width: 10px;
+    height: 10px;
+    background: #000000;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+  }
+  
+  .hippo-left-eye {
+    left: 25px;
+  }
+  
+  .hippo-right-eye {
+    left: 95px;
+  }
+  
+  .hippo-mouth {
+    width: 150px;
+    height: 100px;
+    background: #A64942;
+    position: absolute;
+    border-radius: 110px 110px 85px 85px;
+    top: 145px;
+    left: 125px;
+  }
+  
+  .hippo-nose {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000000;
+    top: 25px;
+  }
+  
+  .hippo-left-nostril {
+    transform: rotate(-45deg);
+    left: 20px;
+  }
+  
+  .hippo-right-nostril {
+    transform: rotate(45deg);
+    left: 100px;
+  }
+  
+  .hippo-ear {
+    position: absolute;
+    width: 33px;
+    height: 13px;
+    border-radius: 70%;
+    background: #000000;
+    top: 80px;
+    border: 5px solid #FE5F55;
+  }
+  
+  .hippo-left-ear {
+    transform: rotate(50deg);
+    left: 142px;
+  }
+  
+  .hippo-right-ear {
+    transform: rotate(-50deg);
+    left: 225px;
+  }

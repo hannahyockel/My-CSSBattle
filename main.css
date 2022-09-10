@@ -1,0 +1,10 @@
+.wrapper {
+    width: 400px;
+    height: 300px;
+    margin: 0;
+
+}
+
+.spaced-letters {
+    letter-spacing: 1px;
+}

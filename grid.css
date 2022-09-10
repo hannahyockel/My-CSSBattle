@@ -1,0 +1,22 @@
+.wrapper {
+    background: #62374e;
+ 
+  }
+  .child {
+    width: 50px;
+    height: 50px;
+    background: #fdc57b;
+  }
+
+.parent {
+  display: grid;
+  grid: repeat(2, 1fr);
+  gap: 100px 195px;
+  width: 350px;
+  padding: 50px;
+}
+
+.div1 { grid-area: 1 / 1 / 2 / 2; }
+.div2 { grid-area: 1 / 2 / 2 / 3; }
+.div3 { grid-area: 2 / 1 / 3 / 2; }
+.div4 { grid-area: 2 / 2 / 3 / 3; } 
