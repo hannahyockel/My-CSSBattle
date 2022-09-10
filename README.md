@@ -1,12 +1,22 @@
 # My-CSSBattle
 
-A collection of my CSSBattle sumbissions.
+A collection of my [CSSBattle](https://cssbattle.dev/) sumbissions.
 
 Deployed by Netlify.
 
 ## Demo
 
 [View demo on Netlify](https://631c539ad1972300098d4e8b--papaya-alpaca-70e428.netlify.app/)
+
+## Current Submissions
+
+Click the links to view the CSSBattle challenge prompts.
+
+- [Simply Square](https://cssbattle.dev/play/1)
+- [Carrom](https://cssbattle.dev/play/2)
+- [Froggy](https://cssbattle.dev/play/70)
+- [Hippo](https://cssbattle.dev/play/75)
+- [Sunset](https://cssbattle.dev/play/62)
 
 ## Screenshots
 
