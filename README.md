@@ -10,4 +10,4 @@ Deployed by Netlify.
 
 ## Screenshots
 
-[[Screenshot]]("Screen Shot 2022-09-10 at 4.14.20 AM.png")
+<img width="1326" alt="Screen Shot 2022-09-10 at 4 14 20 AM" src="https://user-images.githubusercontent.com/88843058/189477107-c46b80a7-772f-4666-9c27-7f78cfcc1cd4.png">
